@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.handsome.thehandsome",
+      "sha256_cert_fingerprints":
+        ["C9:E7:C0:A8:A0:64:0C:16:DA:12:00:0E:7F:59:86:25:1E:45:58:C3:E0:58:A2:55:AD:5A:36:48:29:AF:D3:DB"]
+    }
+  }
+]
